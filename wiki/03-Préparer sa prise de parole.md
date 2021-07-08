@@ -44,7 +44,7 @@ Définir le profil, les moteurs et les préoccupations des personnes
 conditionne tout ce qui suivra. Car avant de parler de quelque chose,
 on parle d’abord et toujours à quelqu’un !
 
-![image](./../ressources/carte_auditoire.png)
+![image](https://raw.githubusercontent.com/seeren-training/Prise-de-parole/master/ressources/carte_auditoire.png)
 
 Pour  créer  du  lien  avec  l’auditoire  et  être  au  plus  près  de  ses  préoccupations.Il  lui  sera  alors  plus  facile  d’envisager  votre  présentation  comme  une solution pertinente.Par ailleurs, il vous sera plus facile de sélectionner informations et arguments pour « taper dans le mille ».
 

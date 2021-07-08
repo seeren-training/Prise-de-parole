@@ -14,9 +14,8 @@ ___
 * [Introduction](https://github.com/seeren-training/Prise-de-parole/wiki/01)
 * [Gérer son stress et atténuer son trac](https://github.com/seeren-training/Prise-de-parole/wiki/02)
 * [Préparer sa prise de parole](https://github.com/seeren-training/Prise-de-parole/wiki/03)
-* [Exercices](https://github.com/seeren-training/Prise-de-parole/wiki/03)
-* [Captiver son auditoire et l'associer](https://github.com/seeren-training/Prise-de-parole/wiki/03)
-* [La communication d'un point de vue cérébral](https://github.com/seeren-training/Prise-de-parole/wiki/03)
+* [Exercices](https://github.com/seeren-training/Prise-de-parole/wiki/04)
+* [Captiver son auditoire et l'associer](https://github.com/seeren-training/Prise-de-parole/wiki/05)
 
 ___
 

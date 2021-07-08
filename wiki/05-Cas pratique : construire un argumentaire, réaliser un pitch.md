@@ -82,7 +82,7 @@ Un contradicteur n’est que partiellement conscient du vrai problème et il ne 
 
 ___
 
-## 📑 Interventions face au group
+## 📑 Interventions face au groupe
 
 👨🏻‍💻 Manipulation
 

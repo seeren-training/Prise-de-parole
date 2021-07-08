@@ -1,4 +1,4 @@
-# Introduction
+# Gérer son stress et atténuer son trac
 
 *  🔖 **Comprendre ce qui déclenche le stress**
 *  🔖 **Atténuer son trac par la pensée alternative**
@@ -32,7 +32,7 @@ ___
 
 ## 📑 Acquérir des outils pour faire face au stress
 
-Divers outils existent pour faire face au stress efficaement:
+Divers outils existent pour faire face au stress efficacement:
 
 * Serrer quelqu’un qu’on aime dans ses bras
 * Appelez la plus drôle de ses amies
